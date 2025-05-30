@@ -9,10 +9,10 @@ const App = () => {
   return (
     <div className="max-w-7xl mx-auto p-6 space-y-6">
       <div className="text-center space-y-2">
-        <h1 className="text-3xl font-bold text-gray-800">
+        <h1 className="text-3xl font-bold text-white">
           useMemo Performance Optimization
         </h1>
-        <p className="text-gray-600">
+        <p className="text-white">
           เปิด Console เพื่อดู performance logs และเปรียบเทียบความแตกต่าง
         </p>
       </div>
